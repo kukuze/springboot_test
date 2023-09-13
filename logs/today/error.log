@@ -1,0 +1,5 @@
+[WARN ] 2023-09-06 16:39:50.574 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.sprintboot_test]' package. Please check your configuration.
+[WARN ] 2023-09-06 16:39:57.200 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.sprintboot_test]' package. Please check your configuration.
+[WARN ] 2023-09-06 16:40:30.223 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.sprintboot_test]' package. Please check your configuration.
+[WARN ] 2023-09-06 16:46:46.261 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.sprintboot_test]' package. Please check your configuration.
+[WARN ] 2023-09-06 16:55:17.413 [main] o.m.s.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.example.sprintboot_test]' package. Please check your configuration.

@@ -1,0 +1,19 @@
+user:
+  age: 1313
+  name: yjz13
+pet:
+  age: 1
+  name: wawa
+#swagger
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 1092yang
+    url: jdbc:mysql://localhost:3305/jssh?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&tcpRcvBuf=1024000
+
+server:
+  port=9001:

@@ -1,0 +1,87 @@
+[INFO ] 2023-09-06 16:39:49.891 [main] c.e.s.SprintbootTestApplication - Starting SprintbootTestApplication using Java 1.8.0_212 on LAPTOP-5BL74VEK with PID 26536 (D:\springboot_test\target\classes started by CharmingZe in D:\springboot_test)
+[INFO ] 2023-09-06 16:39:49.915 [main] c.e.s.SprintbootTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-06 16:39:51.236 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-06 16:39:51.237 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+[INFO ] 2023-09-06 16:39:51.237 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[INFO ] 2023-09-06 16:39:51.238 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2023-09-06 16:39:51.241 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+[INFO ] 2023-09-06 16:39:51.250 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:39:51.250 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-06 16:39:51.250 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[INFO ] 2023-09-06 16:39:51.424 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-06 16:39:51.424 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1467 ms
+[INFO ] 2023-09-06 16:39:56.674 [main] c.e.s.SprintbootTestApplication - Starting SprintbootTestApplication using Java 1.8.0_212 on LAPTOP-5BL74VEK with PID 7228 (D:\springboot_test\target\classes started by CharmingZe in D:\springboot_test)
+[INFO ] 2023-09-06 16:39:56.677 [main] c.e.s.SprintbootTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-06 16:39:57.738 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-06 16:39:57.738 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+[INFO ] 2023-09-06 16:39:57.738 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[INFO ] 2023-09-06 16:39:57.738 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2023-09-06 16:39:57.741 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+[INFO ] 2023-09-06 16:39:57.748 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:39:57.749 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-06 16:39:57.749 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[INFO ] 2023-09-06 16:39:57.919 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-06 16:39:57.919 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1190 ms
+[INFO ] 2023-09-06 16:39:58.130 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2023-09-06 16:39:58.454 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:39:58.476 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-06 16:39:58.487 [main] c.e.s.SprintbootTestApplication - Started SprintbootTestApplication in 2.166 seconds (JVM running for 4.282)
+[INFO ] 2023-09-06 16:40:10.402 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-09-06 16:40:10.403 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-09-06 16:40:10.403 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+[INFO ] 2023-09-06 16:40:29.742 [main] c.e.s.SprintbootTestApplication - Starting SprintbootTestApplication using Java 1.8.0_212 on LAPTOP-5BL74VEK with PID 26200 (D:\springboot_test\target\classes started by CharmingZe in D:\springboot_test)
+[INFO ] 2023-09-06 16:40:29.744 [main] c.e.s.SprintbootTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-06 16:40:30.727 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-06 16:40:30.727 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+[INFO ] 2023-09-06 16:40:30.727 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[INFO ] 2023-09-06 16:40:30.727 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2023-09-06 16:40:30.730 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+[INFO ] 2023-09-06 16:40:30.736 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:40:30.737 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-06 16:40:30.737 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[INFO ] 2023-09-06 16:40:30.890 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-06 16:40:30.890 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1104 ms
+[INFO ] 2023-09-06 16:40:31.075 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2023-09-06 16:40:31.359 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:40:31.375 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-06 16:40:31.384 [main] c.e.s.SprintbootTestApplication - Started SprintbootTestApplication in 1.959 seconds (JVM running for 4.077)
+[INFO ] 2023-09-06 16:40:31.990 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-09-06 16:40:31.990 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-09-06 16:40:31.991 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 2023-09-06 16:46:45.659 [main] c.e.s.SprintbootTestApplication - Starting SprintbootTestApplication using Java 1.8.0_212 on LAPTOP-5BL74VEK with PID 18420 (D:\springboot_test\target\classes started by CharmingZe in D:\springboot_test)
+[INFO ] 2023-09-06 16:46:45.661 [main] c.e.s.SprintbootTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-06 16:46:46.786 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-06 16:46:46.787 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+[INFO ] 2023-09-06 16:46:46.787 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[INFO ] 2023-09-06 16:46:46.787 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2023-09-06 16:46:46.789 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+[INFO ] 2023-09-06 16:46:46.796 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:46:46.797 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-06 16:46:46.797 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[INFO ] 2023-09-06 16:46:46.952 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-06 16:46:46.952 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1230 ms
+[INFO ] 2023-09-06 16:46:47.145 [main] o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+[INFO ] 2023-09-06 16:46:47.438 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:46:47.454 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-06 16:46:47.465 [main] c.e.s.SprintbootTestApplication - Started SprintbootTestApplication in 2.194 seconds (JVM running for 4.49)
+[INFO ] 2023-09-06 16:46:47.633 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-09-06 16:46:47.633 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-09-06 16:46:47.634 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 2023-09-06 16:55:16.588 [main] c.e.s.SprintbootTestApplication - Starting SprintbootTestApplication using Java 1.8.0_212 on LAPTOP-5BL74VEK with PID 36516 (D:\springboot_test\target\classes started by CharmingZe in D:\springboot_test)
+[INFO ] 2023-09-06 16:55:16.592 [main] c.e.s.SprintbootTestApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-09-06 16:55:18.027 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-09-06 16:55:18.027 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.35] using APR version [1.7.0].
+[INFO ] 2023-09-06 16:55:18.027 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+[INFO ] 2023-09-06 16:55:18.027 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2023-09-06 16:55:18.030 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1q  5 Jul 2022]
+[INFO ] 2023-09-06 16:55:18.036 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:55:18.037 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2023-09-06 16:55:18.037 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.65]
+[INFO ] 2023-09-06 16:55:18.191 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-09-06 16:55:18.192 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1511 ms
+[INFO ] 2023-09-06 16:55:18.658 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-09-06 16:55:18.674 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-09-06 16:55:18.683 [main] c.e.s.SprintbootTestApplication - Started SprintbootTestApplication in 2.543 seconds (JVM running for 4.733)
+[INFO ] 2023-09-06 16:55:20.392 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-09-06 16:55:20.392 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-09-06 16:55:20.393 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
